@@ -1,0 +1,2 @@
+# SimuladorFluidos
+Simulador de humo y viendo para la asignatura de métodos numéricos. Cuenta con un cañón de aire al presionar el espacio y se puede intercalar entre le método de Gauss Seidel y Jacobi apretando la tecla 'j'. Con el click derecho se crea el fluido y con el izquierdo se le aplican las fuerzas. Con la tecla 'v' se puede cambiar entre el mapa de densidades y el de vectores. Con la tecla 'c' se borra todo lo que hay en la pantalla.
